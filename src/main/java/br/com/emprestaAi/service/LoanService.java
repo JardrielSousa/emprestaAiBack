@@ -11,7 +11,7 @@ import br.com.emprestaAi.model.Modality;
 
 @Service
 public class LoanService {
-	private static final String CEARA = "ce";
+	private static final String CEARA = "CE";
 	private static final String CONSIGNADO = "Consignado";
 	private static final String EMPRESTIMO_COM_GARANTIA = "Emprestimo com Garantia";
 	private static final String EMPRESTIMO_PESSOAL = "Emprestimo Pessoal";
